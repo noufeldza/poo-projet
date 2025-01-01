@@ -48,7 +48,9 @@ Développer une solution numérique centralisée permettant de gérer efficaceme
 
 ### 5.1 Gestion des Dossiers Médicaux
 
-- Création, modification, et suppression des dossiers.
+- Création, modification, et suppression des dossiers (Secrétaire).
+- exemple test:
+1  connecter dans login page 
 
 ### 5.2 Génération de Documents
 

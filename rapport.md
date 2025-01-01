@@ -46,9 +46,9 @@ Développer une solution numérique centralisée permettant de gérer efficaceme
 
 ## 5. Fonctionnalités
 
-### 5.1 Gestion des Dossiers Médicaux
+### 5.1 Gestion des Dossiers Médicaux (Secrétaire)
 
-- Création, modification, et suppression des dossiers (Secrétaire).
+- Création, modification, et suppression des dossiers.
 - exemple test:<br><br>
 
   **Après l’exécution du programme :** se connecter avec Secrétaire Compte

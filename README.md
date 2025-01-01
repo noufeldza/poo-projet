@@ -49,9 +49,42 @@ Développer une solution numérique centralisée permettant de gérer efficaceme
 ### 5.1 Gestion des Dossiers Médicaux
 
 - Création, modification, et suppression des dossiers (Secrétaire).
-- exemple test:
-1.  connecter dans login page
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20162808.png)
+- exemple test:<br><br>
+
+  **Après l’exécution du programme :** se connecter avec Secrétaire Compte
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20162808.png)<br><br>
+ **appuyer sur le bouton** ajouter un patient
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20183930.png)<br><br>
+ **l'interface de manipulation des patients** 
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163005.png)<br><br>
+ **remplir les informations du patient** 
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163810.png)<br><br>
+ **après avoir ajouté plusieurs patients** 
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163919.png)<br><br>
+ **la recherche d'un patient** (le nom et le prenom)
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163936.png)<br><br>
+ **apres la recherche** 
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164236.png)<br><br>
+ **on modifier les informations du patient** 
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164236.png)<br><br>
+ **apres la modification** 
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164246.png)<br><br>
+ **on supprimé le patient 3** 
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164026.png)<br><br>
+ **après la suppression** 
+
+
+   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164558.png)<br><br>
 
 ### 5.2 Génération de Documents
 

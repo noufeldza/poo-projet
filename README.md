@@ -49,42 +49,7 @@ Développer une solution numérique centralisée permettant de gérer efficaceme
 ### 5.1 Gestion des Dossiers Médicaux (Secrétaire)
 
 - Création, modification, et suppression des dossiers.
-- exemple test:<br><br>
 
- \-**Après l’exécution du programme :** se connecter avec le Compte de Secrétaire
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20162808.png)<br><br>
- \-**appuyer sur le bouton** ajouter un patient
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20183930.png)<br><br>
- \-**l'interface de manipulation des patients** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163005.png)<br><br>
- \-**remplir les informations du patient** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163810.png)<br><br>
- \-**après avoir ajouté plusieurs patients** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163919.png)<br><br>
- \-**la recherche d'un patient** (le nom et le prenom)
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20163936.png)<br><br>
- \-**apres la recherche** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164236.png)<br><br>
- \-**on modifier les informations du patient** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164236.png)<br><br>
- \-**apres la modification** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164246.png)<br><br>
- \-**on supprimé le patient 3** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164026.png)<br><br>
- \-**après la suppression** 
-
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164558.png)<br><br>
 
 ### 5.2 Génération de Documents
 
@@ -92,27 +57,7 @@ Développer une solution numérique centralisée permettant de gérer efficaceme
 - Certificats médicaux selon les normes.
 - Fiches contenant les informations personnelles.
 - Accès aux historiques médicaux et consultations.
-- exemple test:<br><br>
- \-**se connecter avec le Compte de médecin** 
 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164350.png)<br><br>
- \-**se connecter avec le Compte de médecin** 
-
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164350.png)<br><br>
- \-**l'interface du stafe medical** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164625.png)<br><br>
- \-**remplir consultation** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20164828.png)<br><br>
- \-**remplir l'ordonnance** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20165127.png)<br><br>
- \-**l'historique de patient** 
-
-   ![image](https://github.com/noufeldza/poo-projet/blob/main/pngs/Screenshot%202025-01-01%20165629.png)<br><br>
 ### 5.4 Gestion des Rendez-vous
 
 - Saisie et gestion des rendez-vous via une interface intuitive.

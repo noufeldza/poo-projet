@@ -24,7 +24,7 @@ Développer une solution numérique centralisée permettant de gérer efficaceme
 - Gestion des dossiers médicaux : Création, modification, et consultation.
 - Gestion des rendez-vous : Planification, modification, et annulation.
 - Gestion des fiches patients : Informations personnelles et historiques médicaux.
-- Génération automatique des certificats médicaux et ordonnances.
+- Génération des certificats médicaux et ordonnances.
 
 ### 2.2 Besoins Non Fonctionnels
 
